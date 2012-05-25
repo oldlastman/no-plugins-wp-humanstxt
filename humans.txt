@@ -1,0 +1,24 @@
+/* THE HUMANS RESPONSIBLE & COLOPHON / humanstxt.org */
+
+
+/* TEAM */
+
+	Technical director: Jose Pardo
+	Twitter: oldlastman
+	From: Cadiz, Spain.
+
+	Director of strategy: JuanMa Ruiz
+	Site: http://www.juanmaruiz.com
+	Twitter: RJuanMa
+	From: Jerez de la Frontera, Spain.
+
+	Artistic director: Antonio Cabrera
+	Twitter: acabreradg
+	From: Jerez de la Frontera, Spain.
+
+
+/* THANKS */
+
+	Anna Ladoshkina 
+	Site: http://www.onextrapixel.com
+
