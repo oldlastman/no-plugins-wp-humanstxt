@@ -9,6 +9,11 @@ Cambios realizados sobre original
 =================================
 - El humans.txt existe como archivo texto en el directorio del theme (facilita la edición sin tocar código)
 - Las funciones necesarias para la lectura y muestra del humans.txt se han movido a un archivo independiente
-- Se realiza un llamanda en el functions.php para la carga de las funciones del humans..txt
+- Se realiza un llamanda en el functions.php para la carga de las funciones del humans.txt
+
+Modo de empleo
+==================
+Incluir en el theme wordpress que se esté creando la carpeta 00_includes y el archivo humans.txt personalizado.
+Añadir al archivo functions.php propio la llamada de ejemplo que aparece en el repositorio
 
 Twitter: @oldlastman
